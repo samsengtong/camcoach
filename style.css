@@ -3907,7 +3907,13 @@ a.link-style3 {
 */
 
 
-
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .first-section .big-tagline a {
+        font-size: 10px;
+        padding: 2px 2px ;
+       
+    }
+}
 
 
 
